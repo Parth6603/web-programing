@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Air Pollution: A Growing Concern</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 10px 0;
+        }
+        .photo-gallery {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .photo-gallery img {
+            flex: 1 1 calc(33% - 10px);
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Air Pollution: A Growing Concern</h1>
+    
+    <p>Air pollution is one of the biggest environmental challenges we face today. It affects our health, the environment, and the climate. In this blog, we will explore the causes, effects, and potential solutions to air pollution.</p>
+    
+    <div class="photo-gallery">
+        <img src="‪C:\Users\student\Downloads\city pollution.jpg" alt="Polluted City">
+        <img src="C:\Users\student\Downloads\p2.jpg" alt="Smog over city">
+        <img src="‪C:\Users\student\Downloads\p3.jpg" alt="Factory emissions">
+        <img src="‪C:\Users\student\Downloads\p4.jpg" alt="Clean air initiatives">
+        <img src="‪C:\Users\student\Downloads\p5.jpg" alt="Air quality monitoring">
+        <img src="‪C:\Users\student\Downloads\p6.jpg" alt="Health effects of pollution">
+        <img src="‪C:\Users\student\Downloads\p7.jpg" alt="Community clean-up">
+        <img src="‪C:\Users\student\Downloads\p8.jpg" alt="Future of clean air">
+    </div>
+
+    <p>One major cause of air pollution is the burning of fossil fuels, which releases harmful substances into the atmosphere. This includes gases like carbon dioxide, sulfur dioxide, and nitrogen oxides.</p>
+    
+    <p>The effects of air pollution can be devastating. It can lead to respiratory diseases, cardiovascular problems, and even premature death. Moreover, it contributes to climate change, which affects everyone on the planet.</p>
+    
+    <p>Fortunately, there are solutions. Transitioning to renewable energy sources, improving public transportation, and increasing awareness about the importance of clean air can make a significant difference.</p>
+    
+    <p>Join us in the fight against air pollution! Together, we can work towards a healthier planet.</p>
+
+</body>
+</html>
